@@ -1,77 +1,59 @@
-<div align="center">
-
-# Hi there, I'm Aryan Sharma! 👋
-
-**BCA Student | Unity Game Developer | Level Design**
-
-I am passionate about bridging the gap between technical development and creative media. Whether I am programming mobile games in Unity, developing custom automation scripts, or handling advanced video post-production for Indicreed Studios, I love building engaging digital experiences.
-
-<p align="center">
-  <a href="https://www.youtube.com/@know_aryann" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-sharmaaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/aryan_indicreed/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/AryanSharma-hash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**  
-![C](https://img.shields.io/badge/c-%232300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-**Game Development**  
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) 
-
-**Creative Media & Design**  
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-**Cloud & Databases**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-
-**Platforms & Others**  
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
-![Itch.io](https://img.shields.io/badge/Itch-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-
 <br/>
 
 <div align="center">
 
-## 💬 Random Dev Quote
+## 🚀 What I am Building & Exploring
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=BCA+Student;MERN+Stack+Developer;Unity+Game+Developer;Video+Editor" alt="Typing SVG" /></a>
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=AryanSharma-hash&icon=0&color=0)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>💻 Software & Web Dev</h3>
+      <p><b>MERN Stack & Core Logic</b></p>
+      <p>Building robust applications and strengthening fundamental programming architectures utilizing <b>C, C++, and C#</b> alongside modern full-stack web development.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎮 Game Development</h3>
+      <p><b>Hyperball & Gravity Switcher</b></p>
+      <p>Developing hyper-casual mobile game prototypes using <b>Unity</b> and <b>C#</b>. Focused on building engaging core mechanics, visual scripting, and physics optimization.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎬 Creative Media</h3>
+      <p><b>Indicreed Studios</b></p>
+      <p>Operating a creative media production agency. Specializing in advanced video post-production workflows, seamless b-rolls, speedramps, and digital content strategy.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ⚡ Current Focus
+* 🌐 Expanding my expertise in **MERN Stack Development** (MongoDB, Express.js, React, Node.js).
+* 🤖 Leveraging AI tools and building custom browser-based interfaces to automate content generation for LinkedIn and Instagram.
+* 🎓 Scaling my technical and software engineering knowledge alongside my BCA degree at Ch. Charan Singh University.
 
 </div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+## 🕹️ Play My Games
+
+<p>GitHub does not support embedded games, but you can play my latest Unity WebGL prototypes directly in your browser!</p>
+
+<a href="LINK_TO_HYPERBALL_WEBGL" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Hyperball-FF4500?style=for-the-badge&logo=unity&logoColor=white" alt="Play Hyperball" />
+</a>
+&nbsp;&nbsp;
+<a href="LINK_TO_GRAVITY_SWITCHER_WEBGL" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Gravity_Switcher-8A2BE2?style=for-the-badge&logo=unity&logoColor=white" alt="Play Gravity Switcher" />
+</a>
+
+</div>
+
+<br/>
