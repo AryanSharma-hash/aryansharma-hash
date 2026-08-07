@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aryan Sharma! 👋
 
-**BCA Student | Video Editor | Digital Content Strategist**
+**BCA Student | Unity Game Developer | Concept Suggest**
 
 I am passionate about bridging the gap between technical development and creative media. Whether I am programming mobile games in Unity, developing custom automation scripts, or handling advanced video post-production for Indicreed Studios, I love building engaging digital experiences.
 
