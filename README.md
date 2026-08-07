@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aryan Sharma! 👋
 
-**BCA Student | Unity Game Developer | Concept Suggest**
+**BCA Student | Unity Game Developer | Concept Design**
 
 I am passionate about bridging the gap between technical development and creative media. Whether I am programming mobile games in Unity, developing custom automation scripts, or handling advanced video post-production for Indicreed Studios, I love building engaging digital experiences.
 
@@ -64,45 +64,37 @@ I am passionate about bridging the gap between technical development and creativ
 
 <br/>
 
+<div align="center">
+
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanSharma-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Aryan's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AryanSharma-hash&theme=dark&hide_border=false" alt="Aryan's GitHub Streak" />
-</div>
+[![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanSharma-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/AryanSharma-hash)
+[![Aryan's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AryanSharma-hash&theme=dark&hide_border=false)](https://github.com/AryanSharma-hash)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSharma-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSharma-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/AryanSharma-hash)
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryanSharma-hash&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryanSharma-hash&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/AryanSharma-hash)
 
 <br/>
 
 ## 🌟 Top Contributed Repo
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AryanSharma-hash&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=AryanSharma-hash&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AryanSharma-hash)
 
 <br/>
 
 ## 💬 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AryanSharma-hash&icon=0&color=0" alt="Visitor Count" />
+![Visitor Count](https://visitcount.itsvg.in/api?id=AryanSharma-hash&icon=0&color=0)
+
 </div>
