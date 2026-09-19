@@ -17,7 +17,7 @@
     </td>
     <td align="center" width="33%">
       <h3>🎮 Game Development</h3>
-      <p><b>Hyperball & Gravity Switcher</b></p>
+      <p><b>Hyperball & Khanayak Switcher</b></p>
       <p>Developing hyper-casual mobile game prototypes using <b>Unity</b> and <b>C#</b>. Focused on building engaging core mechanics, visual scripting, and physics optimization.</p>
     </td>
     <td align="center" width="33%">
